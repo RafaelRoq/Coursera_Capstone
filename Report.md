@@ -11,4 +11,7 @@ The data source is https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:
 In order to solve this problem, a lot of descriptive analysis have been done. Knowing that the goal is to identify the most friendly region for foreign restaurants, many tables have been created with information such as the number of foreign restaurants per region, and histograms to study its distribution (for instance, with this exploratory analysis most of the regions were discarded because they have 4 or less foreign restaurants, meaning that those are not good places to open a spanish restaurants). Taking into account that this problem requires descriptive analysis and exploratory data analysis, machine learning techniques weren't needed because the exploratory analysis was enough to solve the classification problem.
 
 ## Results
-As it is shown in the last table, there is a clearly winner: North Downtown has 22 foreign restaurants within (the next one in the ranking only has 12). It should be taken into account that th
+As it is shown in the last table, there is a clearly winner: North Downtown has 22 foreign restaurants within (the next one in the ranking only has 12). 
+
+## Conclusions
+It should be taken into account that this region contains plenty variant of restaurants (including a spanish one), so it seems a  good place to open a spanish restaurant. In the future, an analysis based in maps(using the coordinates included in the table but not used) may be interesting, such as clustering of regions according to the type of restaurants within. 
