@@ -14,4 +14,4 @@ In order to solve this problem, a lot of descriptive analysis have been done. Kn
 As it is shown in the last table, there is a clearly winner: North Downtown has 22 foreign restaurants within (the next one in the ranking only has 12). 
 
 ## Conclusions
-It should be taken into account that this region contains plenty variant of restaurants (including a spanish one), so it seems a  good place to open a spanish restaurant. In the future, an analysis based in maps(using the coordinates included in the table but not used) may be interesting, such as clustering of regions according to the type of restaurants within. 
+It should be taken into account that this region contains plenty variant of restaurants (including a spanish one), so it seems a  good place to open a spanish restaurant. In the future, an analysis based in maps(using the coordinates included in the table) may be interesting, such as clustering of regions according to the type of restaurants within. 
